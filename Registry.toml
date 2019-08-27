@@ -1,0 +1,5 @@
+name = "TestRegistry"
+repo = "https://github.com/hendri54/TestRegistry"
+uuid = "27093f06-c8e5-11e9-0524-435e0e25ebcb"
+
+[packages]
